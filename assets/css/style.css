@@ -1474,13 +1474,13 @@ p {
     background-color: #fff; }
 
 /*===========================
-      19.portfolio css
+      19.news css
 ===========================*/
-.portfolio-area {
+.news-area {
   padding-top: 90px;
   padding-bottom: 100px; }
 
-.portfolio-menu ul li {
+.news-menu ul li {
   font-size: 16px;
   font-weight: 700;
   color: #6c6c6c;
@@ -1497,15 +1497,15 @@ p {
   cursor: pointer;
   margin: 0 2px; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
-    .portfolio-menu ul li {
+    .news-menu ul li {
       font-size: 14px;
       padding: 0 26px; } }
   @media (max-width: 767px) {
-    .portfolio-menu ul li {
+    .news-menu ul li {
       font-size: 14px;
       padding: 0 22px;
       line-height: 42px; } }
-  .portfolio-menu ul li::before {
+  .news-menu ul li::before {
     position: absolute;
     content: '';
     bottom: 0;
@@ -1523,23 +1523,23 @@ p {
     -o-transition: all 0.3s ease-out 0s;
     transition: all 0.3s ease-out 0s;
     border-radius: 4px; }
-  .portfolio-menu ul li:hover, .portfolio-menu ul li.active {
+  .news-menu ul li:hover, .news-menu ul li.active {
     color: #00a2e0; }
-    .portfolio-menu ul li:hover::before, .portfolio-menu ul li.active::before {
+    .news-menu ul li:hover::before, .news-menu ul li.active::before {
       opacity: 1; }
 
-.single-portfolio .portfolio-image {
+.single-news .news-image {
   position: relative;
   overflow: hidden;
   border-radius: 8px; }
-  .single-portfolio .portfolio-image img {
+  .single-news .news-image img {
     width: 100%;
     -webkit-transition: all 0.3s ease-out 0s;
     -moz-transition: all 0.3s ease-out 0s;
     -ms-transition: all 0.3s ease-out 0s;
     -o-transition: all 0.3s ease-out 0s;
     transition: all 0.3s ease-out 0s; }
-  .single-portfolio .portfolio-image .portfolio-overlay {
+  .single-news .news-image .news-overlay {
     position: absolute;
     top: 0;
     left: 0;
@@ -1559,25 +1559,25 @@ p {
     -o-transform: scale(0.95);
     transform: scale(0.95);
     border-radius: 8px; }
-    .single-portfolio .portfolio-image .portfolio-overlay .portfolio-content {
+    .single-news .news-image .news-overlay .news-content {
       padding: 16px; }
-      .single-portfolio .portfolio-image .portfolio-overlay .portfolio-content .portfolio-icon {
+      .single-news .news-image .news-overlay .news-content .news-icon {
         position: relative;
         display: inline-block;
         margin: 0 20px; }
-        .single-portfolio .portfolio-image .portfolio-overlay .portfolio-content .portfolio-icon a {
+        .single-news .news-image .news-overlay .news-content .news-icon a {
           font-size: 48px;
           color: #00a2e0;
           position: relative;
           z-index: 5;
           line-height: 50px; }
-        .single-portfolio .portfolio-image .portfolio-overlay .portfolio-content .portfolio-icon .shape {
+        .single-news .news-image .news-overlay .news-content .news-icon .shape {
           position: absolute;
           top: 7px;
           left: 0; }
-.single-portfolio .portfolio-text {
+.single-news .news-text {
   padding-top: 16px; }
-  .single-portfolio .portfolio-text .portfolio-title a {
+  .single-news .news-text .news-title a {
     color: #121212;
     font-size: 24px;
     line-height: 30px;
@@ -1587,23 +1587,23 @@ p {
     -o-transition: all 0.3s ease-out 0s;
     transition: all 0.3s ease-out 0s; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
-      .single-portfolio .portfolio-text .portfolio-title a {
+      .single-news .news-text .news-title a {
         font-size: 20px; } }
     @media (max-width: 767px) {
-      .single-portfolio .portfolio-text .portfolio-title a {
+      .single-news .news-text .news-title a {
         font-size: 20px; } }
-    .single-portfolio .portfolio-text .portfolio-title a:hover {
+    .single-news .news-text .news-title a:hover {
       color: #00a2e0; }
-  .single-portfolio .portfolio-text .text {
+  .single-news .news-text .text {
     color: #121212;
     font-size: 14px;
     line-height: 20px;
     margin-top: 8px; }
-.single-portfolio:hover .portfolio-overlay {
+.single-news:hover .news-overlay {
   opacity: 1;
   visibility: visible; }
 
-.portfolio-2 {
+.news-2 {
   background-color: #f4f6f7; }
 
 /*===========================

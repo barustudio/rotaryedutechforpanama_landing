@@ -1,17 +1,17 @@
 $(function() {
-    
+
     "use strict";
-    
+
     //===== Prealoder
-    
+
     $(window).on('load', function(event) {
         $('.preloader').delay(500).fadeOut(500);
     });
-    
-    
+
+
     //===== Sticky
-    
-    $(window).on('scroll', function(event) {    
+
+    $(window).on('scroll', function(event) {
         var scroll = $(window).scrollTop();
         if (scroll < 10) {
             $(".navbar-area").removeClass("sticky");
@@ -19,24 +19,24 @@ $(function() {
             $(".navbar-area").addClass("sticky");
         }
     });
-    
+
      //===== close navbar-collapse when a  clicked
-    
+
     $(".navbar-nav a").on('click', function () {
         $(".navbar-collapse").removeClass("show");
     });
-    
+
     //===== Mobile Menu
-    
+
     $(".navbar-toggler").on('click', function(){
         $(this).toggleClass("active");
     });
-    
+
     $(".navbar-nav a").on('click', function() {
         $(".navbar-toggler").removeClass('active');
     });
-    
-    
+
+
     //===== Section Menu Active
 
     var scrollLink = $('.page-scroll');
@@ -53,9 +53,9 @@ $(function() {
             $(this).parent().siblings().removeClass('active');
           }
         });
-    });    
-    
-    
+    });
+
+
     //===== Sidebar
 
     $('[href="#side-menu-right"], .overlay-right').on('click', function (event) {
@@ -65,9 +65,9 @@ $(function() {
     $('[href="#close"], .overlay-right').on('click', function (event) {
         $('.sidebar-right, .overlay-right').removeClass('open');
     });
-    
-    
-    
+
+
+
     //===== Isotope Project 3
 
     $('.container').imagesLoaded(function () {
@@ -77,7 +77,7 @@ $(function() {
         });
 
         // filter items on button click
-        $('.portfolio-menu ul').on('click', 'li', function () {
+        $('.news-menu ul').on('click', 'li', function () {
             var filterValue = $(this).attr('data-filter');
             $grid.isotope({
                 filter: filterValue
@@ -85,14 +85,14 @@ $(function() {
         });
 
         //for menu active class
-        $('.portfolio-menu ul li').on('click', function (event) {
+        $('.news-menu ul li').on('click', function (event) {
             $(this).siblings('.active').removeClass('active');
             $(this).addClass('active');
             event.preventDefault();
         });
     });
-    
-    
+
+
     //  Magnific Popup
 
     $('.image-popup').magnificPopup({
@@ -101,15 +101,15 @@ $(function() {
             enabled: true
         }
     });
-    
+
     //====== Magnific Popup
 
     $('.video-popup').magnificPopup({
         type: 'iframe'
         // other options
     });
-    
-    
+
+
     //===== Slick
 
     $('.testimonial-active').slick({
@@ -149,8 +149,8 @@ $(function() {
             }
         ]
     });
-    
-    
+
+
     //===== Slick
 
     $('.testimonial-active-2').slick({
@@ -190,8 +190,8 @@ $(function() {
             }
         ]
     });
-    
-    
+
+
     //===== Slick
 
     $('.client-active').slick({
@@ -230,8 +230,8 @@ $(function() {
             }
         ]
     });
-    
-    
+
+
     //===== Slick
 
     $('.testimonial-active-4').slick({
@@ -272,9 +272,9 @@ $(function() {
         ]
     });
 
-        
+
     //===== Back to top
-    
+
     // Show or hide the sticky footer button
     $(window).on('scroll', function(event) {
         if($(this).scrollTop() > 600){
@@ -283,38 +283,38 @@ $(function() {
             $('.back-to-top').fadeOut(200)
         }
     });
-    
-    
+
+
     //Animate the scroll to yop
     $('.back-to-top').on('click', function(event) {
         event.preventDefault();
-        
+
         $('html, body').animate({
             scrollTop: 0,
         }, 1500);
     });
-    
-    
+
+
     //=====  AOS
-    
+
     new WOW().init();
-    
-    
-    //===== 
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
+
+    //=====
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 });
