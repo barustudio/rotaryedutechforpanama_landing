@@ -1662,15 +1662,15 @@ p {
 /*===========================
       16.PRICING css
 ===========================*/
-.pricing-area {
+.partners-area {
   background-color: #f4f6f7;
   padding-top: 90px;
   padding-bottom: 100px; }
 
-.pricing-2 {
+.partners-2 {
   background-color: #fff; }
 
-.pricing-style-one {
+.partners-style-one {
   -webkit-box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
   -moz-box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
   box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
@@ -1679,58 +1679,58 @@ p {
   position: relative;
   overflow: hidden;
   background-color: #fff; }
-  .pricing-style-one .pricing-icon img {
+  .partners-style-one .partners-icon img {
     width: 200px; }
-  .pricing-style-one .pricing-header .sub-title {
+  .partners-style-one .partners-header .sub-title {
     font-size: 20px;
     font-weight: 600;
     line-height: 25px;
     color: #121212;
     position: relative;
     margin-top: 24px; }
-  .pricing-style-one .pricing-header .month {
+  .partners-style-one .partners-header .month {
     font-size: 20px;
     font-weight: 300;
     line-height: 25px;
     color: #6c6c6c;
     margin-top: 3px; }
-    .pricing-style-one .pricing-header .month .price {
+    .partners-style-one .partners-header .month .price {
       font-size: 36px;
       font-weight: 600;
       line-height: 45px;
       color: #121212;
       margin-top: 8px; }
       @media only screen and (min-width: 576px) and (max-width: 767px) {
-        .pricing-style-one .pricing-header .month .price {
+        .partners-style-one .partners-header .month .price {
           font-size: 24px;
           margin-top: 32px;
           line-height: 30px; } }
-  .pricing-style-one .pricing-list {
+  .partners-style-one .partners-list {
     margin-top: 24px; }
-    .pricing-style-one .pricing-list ul li {
+    .partners-style-one .partners-list ul li {
       font-size: 16px;
       line-height: 24px;
       color: #121212;
       margin-top: 16px; }
       @media only screen and (min-width: 992px) and (max-width: 1199px) {
-        .pricing-style-one .pricing-list ul li {
+        .partners-style-one .partners-list ul li {
           font-size: 14px;
           margin-top: 12px; } }
       @media (max-width: 767px) {
-        .pricing-style-one .pricing-list ul li {
+        .partners-style-one .partners-list ul li {
           font-size: 14px;
           margin-top: 12px; } }
       @media only screen and (min-width: 576px) and (max-width: 767px) {
-        .pricing-style-one .pricing-list ul li {
+        .partners-style-one .partners-list ul li {
           font-size: 16px;
           margin-top: 16px; } }
-      .pricing-style-one .pricing-list ul li i {
+      .partners-style-one .partners-list ul li i {
         color: #00a2e0;
         margin-right: 8px; }
-  .pricing-style-one .pricing-btn {
+  .partners-style-one .partners-btn {
     margin-top: 31px; }
 
-.pricing-style-two {
+.partners-style-two {
   -webkit-box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
   -moz-box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
   box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
@@ -1739,62 +1739,62 @@ p {
   position: relative;
   overflow: hidden;
   background-color: #fff; }
-  .pricing-style-two .pricing-icon img {
+  .partners-style-two .partners-icon img {
     width: 112px; }
-  .pricing-style-two .pricing-header {
+  .partners-style-two .partners-header {
     margin-top: 24px; }
-    .pricing-style-two .pricing-header .sub-title {
+    .partners-style-two .partners-header .sub-title {
       font-size: 20px;
       font-weight: 600;
       line-height: 25px;
       color: #121212; }
-    .pricing-style-two .pricing-header .price {
+    .partners-style-two .partners-header .price {
       display: block;
       font-size: 64px;
       font-weight: 600;
       line-height: 80px;
       color: #121212; }
       @media only screen and (min-width: 992px) and (max-width: 1199px) {
-        .pricing-style-two .pricing-header .price {
+        .partners-style-two .partners-header .price {
           font-size: 50px;
           margin-top: 16px; } }
       @media (max-width: 767px) {
-        .pricing-style-two .pricing-header .price {
+        .partners-style-two .partners-header .price {
           font-size: 50px;
           margin-top: 16px; } }
       @media only screen and (min-width: 576px) and (max-width: 767px) {
-        .pricing-style-two .pricing-header .price {
+        .partners-style-two .partners-header .price {
           font-size: 64px;
           margin-top: 32px; } }
-    .pricing-style-two .pricing-header .year {
+    .partners-style-two .partners-header .year {
       font-size: 20px;
       font-weight: 500;
       line-height: 25px;
       color: #6c6c6c;
       margin-top: -10px; }
-  .pricing-style-two .pricing-list {
+  .partners-style-two .partners-list {
     margin-top: 33px; }
-    .pricing-style-two .pricing-list ul li {
+    .partners-style-two .partners-list ul li {
       font-size: 16px;
       line-height: 24px;
       color: #121212;
       margin-top: 16px; }
       @media only screen and (min-width: 992px) and (max-width: 1199px) {
-        .pricing-style-two .pricing-list ul li {
+        .partners-style-two .partners-list ul li {
           font-size: 14px;
           margin-top: 12px; } }
       @media (max-width: 767px) {
-        .pricing-style-two .pricing-list ul li {
+        .partners-style-two .partners-list ul li {
           font-size: 14px;
           margin-top: 12px; } }
       @media only screen and (min-width: 576px) and (max-width: 767px) {
-        .pricing-style-two .pricing-list ul li {
+        .partners-style-two .partners-list ul li {
           font-size: 16px;
           margin-top: 16px; } }
-      .pricing-style-two .pricing-list ul li i {
+      .partners-style-two .partners-list ul li i {
         color: #00a2e0;
         margin-right: 8px; }
-  .pricing-style-two .pricing-btn {
+  .partners-style-two .partners-btn {
     margin-top: 26px; }
 
 /*===========================
