@@ -186,5 +186,55 @@
         "buttonText": "Transform Lives with Us"
       }
     ]
+  },
+
+  "news": {
+    "sectionTitle": "News & Events",
+    "sectionSubtitle": "Upcoming events and recent news articles about the project",
+    "categories": ["BRANDING", "MARKETING", "PLANNING", "RESEARCH"],
+    "items": [
+      {
+        "id": 1,
+        "categories": ["branding-3", "planning-3"],
+        "image": "assets/images/news-1.png",
+        "title": "Graphics Design",
+        "description": "Short description for the ones who look for something new. Awesome!"
+      },
+      {
+        "id": 2,
+        "categories": ["marketing-3", "research-3"],
+        "image": "assets/images/news-2.png",
+        "title": "Graphics Design",
+        "description": "Short description for the ones who look for something new. Awesome!"
+      },
+      {
+        "id": 3,
+        "categories": ["branding-3", "marketing-3"],
+        "image": "assets/images/news-3.png",
+        "title": "Graphics Design",
+        "description": "Short description for the ones who look for something new. Awesome!"
+      },
+      {
+        "id": 4,
+        "categories": ["planning-3", "research-3"],
+        "image": "assets/images/news-4.png",
+        "title": "Graphics Design",
+        "description": "Short description for the ones who look for something new. Awesome!"
+      },
+      {
+        "id": 5,
+        "categories": ["marketing-3"],
+        "image": "assets/images/news-5.png",
+        "title": "Graphics Design",
+        "description": "Short description for the ones who look for something new. Awesome!"
+      },
+      {
+        "id": 6,
+        "categories": ["planning-3"],
+        "image": "assets/images/news-6.png",
+        "title": "Graphics Design",
+        "description": "Short description for the ones who look for something new. Awesome!"
+      }
+    ]
   }
 }
