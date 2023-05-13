@@ -1,0 +1,36 @@
+{
+  "partners": {
+    "title": "Partners",
+    "description": "This project is made possible through the concerted efforts of our committed partners. These include Rotary clubs, community organizations, and the Ministry of Education, all working together to reshape the educational landscape in Panama.",
+    "images": [
+      {
+        "src": "assets/images/rotary-chitre.png",
+        "alt": "Logo Rotary Club of Chitré"
+      },
+      {
+        "src": "assets/images/rotary-cristobal-colon.png",
+        "alt": "Logo Rotary Club of Cristobal Colón"
+      },
+      {
+        "src": "assets/images/rotary-david.png",
+        "alt": "Logo Rotary Club of David"
+      },
+      {
+        "src": "assets/images/rotary-la-chorrera.png",
+        "alt": "Logo Rotary Club of La Chorrera"
+      },
+      {
+        "src": "assets/images/rotary-panama-norte.png",
+        "alt": "Logo Rotary Club of Panama Norte"
+      },
+      {
+        "src": "assets/images/rotary-playa-coronado.png",
+        "alt": "Logo Rotary Club of Playa Coronado"
+      },
+      {
+        "src": "assets/images/rotary-santiago.png",
+        "alt": "Logo Rotary Club of Santiago"
+      }
+    ]
+  }
+}
