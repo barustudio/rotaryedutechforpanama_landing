@@ -236,5 +236,42 @@
         "description": "Short description for the ones who look for something new. Awesome!"
       }
     ]
+  },
+
+  "testimonials": {
+    "title": "Testimonials",
+    "description": "Hear from students, teachers, and community members about the tangible changes and improvements they've experienced.",
+    "items": [
+      {
+        "image": "assets/images/author-3.jpg",
+        "text": "Since we've incorporated these digital tools in our classrooms, I've seen a significant increase in student engagement and interest. It's like we've unlocked a new way of learning, and the students are thriving.",
+        "author": "María Pérez",
+        "title": "Teacher"
+      },
+      {
+        "image": "assets/images/author-1.jpg",
+        "text": "Before, I never really liked school. Now, I can't wait to get to class. Using technology makes learning exciting and interactive. I feel more prepared for the future.",
+        "author": "Alberto Rios",
+        "title": "Student"
+      },
+      {
+        "image": "assets/images/author-2.jpg",
+        "text": "I am grateful for the Paul Harris Interactive Classroom in my daughter's school. Now she comes home from school excited to share what she has learned. I see her growing in confidence and knowledge. This initiative is truly transforming education in Panama.",
+        "author": "Carmen Rodríguez",
+        "title": "Parent"
+      },
+      {
+        "image": "assets/images/author-4.jpg",
+        "text": "The Paul Harris Interactive Classroom has been a game-changer for our school. We've seen improvements not just in academic performance, but also in student motivation and teacher satisfaction. We're thrilled to be a part of this initiative.",
+        "author": "Luis González",
+        "title": "School Principal"
+      },
+      {
+        "image": "assets/images/author-4.jpg",
+        "text": "We are proud to partner with Rotary on this project. Their commitment to improving education and integrating technology in our classrooms aligns perfectly with our mission. Together, we are making a difference in the lives of our students.",
+        "author": "Dr. Marta Ortega",
+        "title": "Ministry of Education"
+      }
+    ]
   }
 }
