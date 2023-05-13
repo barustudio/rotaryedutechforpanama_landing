@@ -11,7 +11,7 @@
                     <nav class="navbar navbar-expand-lg">
                         <a class="navbar-brand" href="#">
                             <img
-                                src="assets/images/logo.png"
+                                src="images/logo.png"
                                 alt="Logo of Digital Interactive Classrooms Project, a Rotary initiative."
                             />
                         </a>
