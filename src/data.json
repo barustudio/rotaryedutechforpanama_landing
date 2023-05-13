@@ -33,6 +33,7 @@
       }
     ]
   },
+
   "about": {
     "title": "Empowering Panama's Teachers and Students",
     "texts": [
@@ -106,5 +107,21 @@
         }
       ]
     }
+  },
+
+  "contact": {
+    "title": "Get in touch",
+    "description": "Connect with us today and join us in the journey of transforming education in Panama through technology.",
+    "contactTitle": "Lets talk about the project",
+    "contactText": "Join us in the conversation about this transformative project, aimed at revolutionizing public education in Panama through digital technology. Your input and support could make a substantial difference in shaping a brighter future for Panamanian students.",
+    "contactInfo": [
+      {"icon": "lni-user", "text": "Enedelsy Escobar-King"},
+      {"icon": "lni-phone-handset", "text": "+507 6521-6000"},
+      {"icon": "lni-envelope", "text": "eescobar_king@hotmail.com"},
+      {"icon": "lni-envelope", "text": "crpn1996@gmail.com"},
+      {"icon": "lni-cog", "text": "Rotary District 4240"},
+      {"icon": "lni-map-marker", "text": "Panama City, Republic of Panama"}
+    ]
   }
+
 }
