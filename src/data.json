@@ -122,6 +122,69 @@
       {"icon": "lni-cog", "text": "Rotary District 4240"},
       {"icon": "lni-map-marker", "text": "Panama City, Republic of Panama"}
     ]
-  }
+  },
 
+  "header": {
+    "navbarItems": [
+      {
+        "id": 1,
+        "name": "HOME",
+        "href": "#home",
+        "active": true
+      },
+      {
+        "id": 2,
+        "name": "ABOUT",
+        "href": "#about",
+        "active": false
+      },
+      {
+        "id": 3,
+        "name": "NEWS",
+        "href": "#news",
+        "active": false
+      },
+      {
+        "id": 4,
+        "name": "PARTNERS",
+        "href": "#partners",
+        "active": false
+      },
+      {
+        "id": 5,
+        "name": "TESTIMONIALS",
+        "href": "#testimonials",
+        "active": false
+      },
+      {
+        "id": 6,
+        "name": "CONTACT",
+        "href": "#contact",
+        "active": false
+      }
+    ],
+    "carouselItems": [
+      {
+        "id": 1,
+        "title": "Empowering the future: Transforming education in Panama",
+        "backgroundImage": "assets/images/slider-1.jpg",
+        "href": "#contact",
+        "buttonText": "Join Our Mission"
+      },
+      {
+        "id": 2,
+        "title": "Unlocking potential: Digital tools for a brighter tomorrow",
+        "backgroundImage": "assets/images/slider-2.jpg",
+        "href": "#contact",
+        "buttonText": "Get Involved"
+      },
+      {
+        "id": 3,
+        "title": "Bridging the gap: Quality education for all Panamanian students",
+        "backgroundImage": "assets/images/slider-3.jpg",
+        "href": "#contact",
+        "buttonText": "Transform Lives with Us"
+      }
+    ]
+  }
 }
