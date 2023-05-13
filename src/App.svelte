@@ -1,9 +1,9 @@
 <script>
+    import Header from "./Header.svelte";
 </script>
 
 <div>
-  <h1>hello world</h1>
+  <Header />
 </div>
 
-<style>
-</style>
+<style></style>
