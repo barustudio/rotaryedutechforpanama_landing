@@ -1,5 +1,6 @@
 <script>
     import data from './data.json';
+    import YouTubeVideo from './lib/YouTubeVideo.svelte';
     let { title, texts, objetive, strategies, expectedOutcomes } = data.about;
 </script>
 
@@ -22,17 +23,20 @@
         </div>
 
         <!-- objective -->
-        <div class="row justify-content-center">
+        <div class="row about-subtitle">
             <div class="col-xl-6 col-lg-8">
                 <div class="section-title text-center mt-30 pb-40">
                     <h4 class="wow fadeInUp" data-wow-duration="1s">{objetive.title}</h4>
                     <p class="text wow fadeInUp" data-wow-duration="1s">{objetive.description}</p>
                 </div>
             </div>
+            <div class="col-xl-6 col-lg-4 wow fadeInUp" data-wow-duration="1s">
+                <YouTubeVideo videoId="{objetive.video}" />
+            </div>
         </div>
 
         <!-- strategies -->
-        <div class="row justify-content-center">
+        <div class="row justify-content-center about-subtitle">
             <div class="col-xl-6 col-lg-8">
                 <h4 class="wow fadeInUp" data-wow-duration="1s">{strategies.title}</h4>
                 <p class="text wow fadeInUp" data-wow-duration="1s">{strategies.description}</p>
@@ -55,7 +59,7 @@
         </div>
 
         <!-- expected outcomes -->
-        <div class="row justify-content-center">
+        <div class="row justify-content-center about-subtitle">
             <div class="col-xl-6 col-lg-8">
                 <h4 class="wow fadeInUp" data-wow-duration="1s">{expectedOutcomes.title}</h4>
                 <p class="text wow fadeInUp" data-wow-duration="1s">{expectedOutcomes.description}</p>
@@ -79,4 +83,9 @@
     </div>
 </section>
 
-<style></style>
+<style>
+    .about-subtitle {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+</style>
