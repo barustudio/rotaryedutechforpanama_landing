@@ -24,13 +24,13 @@
 
         <!-- objective -->
         <div class="row about-subtitle">
-            <div class="col-xl-6 col-lg-8">
+            <div class="col-xl-6 col-lg-6">
                 <div class="section-title text-center mt-30 pb-40">
                     <h4 class="wow fadeInUp" data-wow-duration="1s">{objective.title}</h4>
                     <p class="text wow fadeInUp" data-wow-duration="1s">{objective.description}</p>
                 </div>
             </div>
-            <div class="col-xl-6 col-lg-4 wow fadeInUp" data-wow-duration="1s">
+            <div class="col-xl-6 col-lg-6 wow fadeInUp" data-wow-duration="1s">
                 <YouTubeVideo videoId="{objective.video}" />
             </div>
         </div>
