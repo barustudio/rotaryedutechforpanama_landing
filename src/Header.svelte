@@ -11,9 +11,10 @@
                     <nav class="navbar navbar-expand-lg">
                         <a class="navbar-brand" href="#">
                             <img
-                                src="images/logo.png"
+                                src="images/favicon.png"
                                 alt="Logo of Digital Interactive Classrooms Project, a Rotary initiative."
                             />
+                            Digital Interactive Classrooms
                         </a>
 
                         <button
@@ -115,3 +116,13 @@
         </div>
     </div>
 </section>
+
+<style>
+    .navbar-brand img {
+        width: 1.5rem;
+        margin-right: 0.25rem;
+        vertical-align: text-top;
+     }
+    .navbar-brand { color: #fff; }
+    .navbar-brand:hover { color: #f7a81b; }
+</style>
