@@ -25,7 +25,15 @@
                     <p class="text">{contactText}</p>
                     <ul class="contact-info">
                         {#each contactInfo as info}
-                            <li><i class={info.icon} /> {info.text}</li>
+                        <li>
+                            <i class={info.icon} />
+                                {#if info.type === "mail"}
+                                <a href={"mailto:" + info.text}>{info.text}</a>
+                                {:else if info.type === "phone"}
+                                <a href={"tel:" + info.text}>{info.text}</a>
+                                {:else}
+                                {info.text}
+                                {/if}
                         {/each}
                     </ul>
                 </div>
