@@ -1,7 +1,7 @@
 <script>
     import data from './data.json';
     import YouTubeVideo from './lib/YouTubeVideo.svelte';
-    let { title, texts, objetive, strategies, expectedOutcomes } = data.about;
+    let { title, texts, objective, strategies, expectedOutcomes } = data.about;
 </script>
 
 <section id="about" class="about-area">
@@ -26,12 +26,12 @@
         <div class="row about-subtitle">
             <div class="col-xl-6 col-lg-8">
                 <div class="section-title text-center mt-30 pb-40">
-                    <h4 class="wow fadeInUp" data-wow-duration="1s">{objetive.title}</h4>
-                    <p class="text wow fadeInUp" data-wow-duration="1s">{objetive.description}</p>
+                    <h4 class="wow fadeInUp" data-wow-duration="1s">{objective.title}</h4>
+                    <p class="text wow fadeInUp" data-wow-duration="1s">{objective.description}</p>
                 </div>
             </div>
             <div class="col-xl-6 col-lg-4 wow fadeInUp" data-wow-duration="1s">
-                <YouTubeVideo videoId="{objetive.video}" />
+                <YouTubeVideo videoId="{objective.video}" />
             </div>
         </div>
 
