@@ -51,32 +51,32 @@
       "description": "In our 'Digital Interactive Classrooms' project, we deploy cutting-edge strategies to revolutionize education in Panama. We focus on digital literacy, teacher training, and collaborative learning to bridge the digital divide and empower our educators and students.",
       "items": [
         {
-          "icon": "images/icon-1.png",
+          "icon": "images/icon-infrastructure.png",
           "title": "Infrastructure Development",
           "description": "The project will provide essential digital equipment, such as computers, tablets, projectors, and interactive whiteboards, to selected schools in underprivileged areas. This will ensure that both teachers and students have access to modern educational resources and tools."
         },
         {
-          "icon": "images/icon-2.png",
+          "icon": "images/icon-training.png",
           "title": "Teacher Training",
           "description": "The project will offer comprehensive training to over 1,200 teachers, focusing on the effective use of digital technologies in the classroom. Teachers will learn how to incorporate technology into their lesson plans, use online resources, and develop engaging and interactive learning experiences for their students."
         },
         {
-          "icon": "images/icon-3.png",
+          "icon": "images/icon-cv.png",
           "title": "Curriculum Development",
           "description": "The project will support the development of a technology-enhanced curriculum, integrating digital resources into traditional teaching methods. This will ensure that students gain relevant knowledge and skills, preparing them for future success in the digital age."
         },
         {
-          "icon": "images/icon-4.png",
+          "icon": "images/icon-monitoring.png",
           "title": "Monitoring and Evaluation",
           "description": "The project will closely monitor progress and evaluate the impact of the digital technologies and training provided. This will help ensure that the project's objectives are met and that the resources are used effectively."
         },
         {
-          "icon": "images/icon-4.png",
+          "icon": "images/icon-community.png",
           "title": "Community Engagement",
           "description": "The project will involve local Rotary clubs, community organizations, and the Ministry of Education (MEDUCA) in the planning, implementation, and evaluation process. This collaboration will help ensure the project's sustainability and long-term success."
         },
         {
-          "icon": "images/icon-4.png",
+          "icon": "images/icon-advocacy.png",
           "title": "Advocacy and Awareness",
           "description": "The project will work on raising awareness about the importance of digital technologies in education, showcasing the positive impact on student learning and development. This will encourage more schools, communities, and policymakers to adopt similar approaches and invest in digital resources and teacher training."
         }
@@ -87,22 +87,22 @@
       "description": "The Digital Interactive Classrooms Project envisions transformative outcomes that will shape the future of education in Panama. These aspirations not only focus on equipping students and teachers with digital competencies but also aim to build lasting partnerships that ensure sustainability.",
       "items": [
         {
-          "icon": "images/icon-1.png",
+          "icon": "images/outcome-student-empowerment.png",
           "title": "Student Empowerment: Advancing digital literacy and workforce readiness.",
           "description": "Improved digital literacy and skills among students, better preparing them for higher education and the workforce."
         },
         {
-          "icon": "images/icon-2.png",
+          "icon": "images/outcome-teacher-excellence.png",
           "title": "Teacher Excellence: Cultivating innovative, technology-driven teaching practices.",
           "description": "Enhanced teaching practices, with teachers integrating digital technologies and resources into their lessons, leading to more engaging and effective learning experiences for students."
         },
         {
-          "icon": "images/icon-3.png",
+          "icon": "images/outcome-future-ready-cv.png",
           "title": "Future-Ready Curriculum: Building a relevant, digital-age education system.",
           "description": "A technology-enhanced curriculum that meets the needs of modern students and prepares them for success in the digital age."
         },
         {
-          "icon": "images/icon-4.png",
+          "icon": "images/outcome-sustainable-partnerships.png",
           "title": "Sustainable Partnerships: Fostering collaboration for enduring impact and project sustainability.",
           "description": "Increased collaboration and partnerships between Rotary clubs, community organizations, and the Ministry of Education, ensuring the project's sustainability and long-term impact."
         }
