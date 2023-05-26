@@ -1,7 +1,8 @@
 <script>
+    import ContactForm from "./ContactForm.svelte";
     import data from "./data.json";
-    let { title, description, contactTitle, contactText, contactInfo } =
-        data.contact;
+
+    let { title, description, contactTitle, contactText, contactInfo } = data.contact;
 </script>
 
 <section id="contact" class="contact-area">
@@ -44,50 +45,7 @@
                     data-wow-duration="1.5s"
                     data-wow-delay="0.5s"
                 >
-                    <form
-                        id="contact-form"
-                        action="assets/contact.php"
-                        method="post"
-                    >
-                        <div class="form-input mt-15">
-                            <label>Name</label>
-                            <div class="input-items default">
-                                <input
-                                    type="text"
-                                    placeholder="Name"
-                                    name="name"
-                                />
-                                <i class="lni-user" />
-                            </div>
-                        </div>
-                        <div class="form-input mt-15">
-                            <label>Email</label>
-                            <div class="input-items default">
-                                <input
-                                    type="email"
-                                    placeholder="Email"
-                                    name="email"
-                                />
-                                <i class="lni-envelope" />
-                            </div>
-                        </div>
-                        <div class="form-input mt-15">
-                            <label>Massage</label>
-                            <div class="input-items default">
-                                <textarea
-                                    placeholder="Massage"
-                                    name="massage"
-                                />
-                                <i class="lni-pencil-alt" />
-                            </div>
-                        </div>
-                        <p class="form-message" />
-                        <div class="form-input rounded-buttons mt-20">
-                            <button type="submit" class="main-btn rounded-three"
-                                >Submit</button
-                            >
-                        </div>
-                    </form>
+                    <ContactForm />
                 </div>
             </div>
         </div>
