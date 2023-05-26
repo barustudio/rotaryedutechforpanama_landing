@@ -140,21 +140,9 @@
         "active": false
       },
       {
-        "id": 3,
-        "name": "NEWS",
-        "href": "#news",
-        "active": false
-      },
-      {
         "id": 4,
         "name": "PARTNERS",
         "href": "#partners",
-        "active": false
-      },
-      {
-        "id": 5,
-        "name": "TESTIMONIALS",
-        "href": "#testimonials",
         "active": false
       },
       {
