@@ -36,14 +36,14 @@
                 <YouTubeVideo videoId="{objective.video}" />
             </div>
         </div>
-
-        <!-- strategies -->
-        <AboutStrategies />
-
-        <!-- expected outcomes -->
-        <AboutOutcomes />
     </div>
 </section>
+
+<!-- strategies -->
+<AboutStrategies />
+
+<!-- expected outcomes -->
+<AboutOutcomes />
 
 <style>
     .about-subtitle {
