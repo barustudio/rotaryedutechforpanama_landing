@@ -2,6 +2,7 @@
   import About from "./About.svelte";
   // import CallToAction from "./CallToAction.svelte";
   import Contact from "./Contact.svelte";
+  import Footer from "./Footer.svelte";
   import Header from "./Header.svelte";
   // import News from "./News.svelte";
   import Partners from "./Partners.svelte";
@@ -19,6 +20,7 @@
   <!-- <CallToAction /> -->
   <!-- <Testimonials /> -->
   <Contact />
+  <Footer />
   <BackToTopButton />
 </div>
 
