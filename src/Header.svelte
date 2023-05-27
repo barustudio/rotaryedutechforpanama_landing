@@ -14,7 +14,7 @@
                                 src="images/favicon.png"
                                 alt="Logo of Digital Interactive Classrooms Project, a Rotary initiative."
                             />
-                            Digital Interactive Classrooms
+                            Digital Interactive Classrooms Project
                         </a>
 
                         <button
