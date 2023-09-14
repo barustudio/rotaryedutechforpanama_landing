@@ -1,38 +1,22 @@
-<script>
-  import { MetaTags } from 'svelte-meta-tags';
-</script>
+<svelte:head>
 
-<MetaTags
-  title="Digital Interactive Classrooms Project"
-  description="Empowering the future: Transforming education in Panama. A Rotary initiative."
-  canonical="https://rotaryedutechforpanama.org/"
-  openGraph={{
-    url: 'https://rotaryedutechforpanama.org/',
-    title: 'Digital Interactive Classrooms Project',
-    description: 'Empowering the future: Transforming education in Panama. A Rotary initiative.',
-    images: [
-      {
-        url: 'https://rotaryedutechforpanama.org/images/slider-1.jpg',
-        width: 1024,
-        height: 768,
-        alt: 'Empowering the future: Transforming education in Panama. A Rotary initiative.'
-      },
-      {
-        url: 'https://rotaryedutechforpanama.org/images/slider-2.jpg',
-        width: 1024,
-        height: 768,
-        alt: 'Unlocking potential: Digital tools for a brighter tomorrow. A Rotary initiative.'
-      }
-    ],
-    siteName: 'Digital Interactive Classrooms Project'
-  }}
-  twitter={{
-    handle: '@handle',
-    site: '@site',
-    cardType: 'summary_large_image',
-    title: 'Digital Interactive Classrooms Project',
-    description: 'Empowering the future: Transforming education in Panama. A Rotary initiative.',
-    image: 'https://rotaryedutechforpanama.org/images/slider-1.jpg',
-    imageAlt: 'Empowering the future: Transforming education in Panama. A Rotary initiative.'
-  }}
-/>
+  <!-- HTML Meta Tags -->
+  <title>Digital Interactive Classrooms - A Rotary Initiative</title>
+  <meta name="description" content="Empowering the future: Transforming education in Panama.">
+
+  <!-- Facebook Meta Tags -->
+  <meta property="og:url" content="http://rotaryedutechforpanama.org">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Digital Interactive Classrooms - A Rotary Initiative">
+  <meta property="og:description" content="Empowering the future: Transforming education in Panama.">
+  <meta property="og:image" content="https://rotaryedutechforpanama.org/images/slider-1.jpg">
+
+  <!-- Twitter Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="twitter:domain" content="rotaryedutechforpanama.org">
+  <meta property="twitter:url" content="http://rotaryedutechforpanama.org">
+  <meta name="twitter:title" content="Digital Interactive Classrooms - A Rotary Initiative">
+  <meta name="twitter:description" content="Empowering the future: Transforming education in Panama.">
+  <meta name="twitter:image" content="https://rotaryedutechforpanama.org/images/slider-1.jpg">
+
+</svelte:head>
