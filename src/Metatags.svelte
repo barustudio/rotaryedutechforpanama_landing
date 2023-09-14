@@ -18,7 +18,7 @@
         alt: 'Empowering the future: Transforming education in Panama. A Rotary initiative.'
       },
       {
-        url: 'https://rotaryedutechforpanama.org/images/slider-1.jpg',
+        url: 'https://rotaryedutechforpanama.org/images/slider-2.jpg',
         width: 1024,
         height: 768,
         alt: 'Unlocking potential: Digital tools for a brighter tomorrow. A Rotary initiative.'
