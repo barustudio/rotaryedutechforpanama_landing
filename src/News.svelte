@@ -1,6 +1,6 @@
 <script>
     import data from './data.json';
-    let { sectionTitle, sectionSubtitle, categories,    items } = data.news;
+    let { sectionTitle, sectionSubtitle, categories, items } = data.news;
   </script>
 
   <section id="news" class="news-area">
@@ -34,10 +34,14 @@
               <div class="news-overlay d-flex align-items-center justify-content-center">
                 <div class="news-content">
                   <div class="news-icon">
-                    <a class="image-popup" href="{item.image}"><i class="lni-zoom-in"></i></a>
+                    <a class="image-popup" href="{item.image}" target="_blank">
+                      <i class="lni-zoom-in"></i>
+                    </a>
                   </div>
                   <div class="news-icon">
-                    <a href="#"><i class="lni-link"></i></a>
+                    <a href="{item.url}" target="_blank">
+                      <i class="lni-link"></i>
+                    </a>
                   </div>
                 </div>
               </div>
