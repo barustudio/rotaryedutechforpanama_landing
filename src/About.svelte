@@ -15,13 +15,14 @@
                     <h4 class="title wow fadeInUp" data-wow-duration="1.5s">{title}</h4>
                 </div>
             </div>
-            <div class="row justify-content-center">
-                {#each texts as text}
-                <div class="col-lg-4">
-                    <p class="text wow fadeInUp" data-wow-duration="1s">{text}</p>
-                </div>
-                {/each}
+        </div>
+
+        <div class="row justify-content-center">
+            {#each texts as text}
+            <div class="col-lg-4 mb-20">
+                <p class="text wow fadeInUp" data-wow-duration="1s">{text}</p>
             </div>
+            {/each}
         </div>
 
         <!-- objective -->
