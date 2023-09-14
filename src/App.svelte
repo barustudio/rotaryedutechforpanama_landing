@@ -5,7 +5,6 @@
   import Footer from "./Footer.svelte";
     import GoogleAnalytics from "./GoogleAnalytics.svelte";
   import Header from "./Header.svelte";
-  import Metatags from "./Metatags.svelte";
   // import News from "./News.svelte";
   import Partners from "./Partners.svelte";
   import Preloader from "./Preloader.svelte";
@@ -15,7 +14,6 @@
 
 <div>
   <GoogleAnalytics />
-  <Metatags />
   <Preloader />
   <Header />
   <About />
