@@ -8,8 +8,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <nav class="navbar navbar-expand-lg">
-                        <a class="navbar-brand" href="#">
+                    <nav class="navbar navbar-expand-lg row">
+                        <a class="navbar-brand col-lg-6 col-10" href="#">
                             <img
                                 src="images/favicon.png"
                                 alt="Logo of Digital Interactive Classrooms Project, a Rotary initiative."
@@ -18,7 +18,7 @@
                         </a>
 
                         <button
-                            class="navbar-toggler"
+                            class="navbar-toggler col-2"
                             type="button"
                             data-toggle="collapse"
                             data-target="#navbarEight"
@@ -32,7 +32,7 @@
                         </button>
 
                         <div
-                            class="collapse navbar-collapse sub-menu-bar"
+                            class="collapse navbar-collapse sub-menu-bar col-lg-6 col-12"
                             id="navbarEight"
                         >
                             <ul class="navbar-nav ml-auto">
@@ -123,6 +123,27 @@
         margin-right: 0.25rem;
         vertical-align: text-top;
      }
-    .navbar-brand { color: #fff; }
-    .navbar-brand:hover { color: #f7a81b; }
+    .navbar-brand {
+        color: #fff;
+        margin: 0;
+        white-space: initial;
+    }
+    .navbar-brand:hover {
+        color: #f7a81b;
+    }
+    .navbar-area .navbar .navbar-collapse {}
+        @media only screen and (max-width: 991px) {
+            .navbar-area .navbar .navbar-collapse {
+                background: linear-gradient(to right, #17458f 0%, #00a2e0 100%);
+            }
+        }
+    .slider-area {}
+        @media only screen and (max-width: 991px) {
+            .slider-area {
+                padding-top: 60px;
+            }
+        }
+    .toggler-icon {
+        background-color: #fff !important;
+    }
 </style>
