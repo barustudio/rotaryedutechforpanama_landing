@@ -1314,8 +1314,8 @@ p {
 .about-area {
   position: relative;
   background-color: #f4f6f7;
-  padding-top: 100px;
-  padding-bottom: 100px; }
+  padding-top: 50px;
+  padding-bottom: 50px; }
   .about-area .section-title .title {
     font-size: 44px;
     font-weight: 600;
@@ -1488,8 +1488,8 @@ p {
       19.news css
 ===========================*/
 .news-area {
-  padding-top: 90px;
-  padding-bottom: 100px; }
+  padding-top: 50px;
+  padding-bottom: 50px; }
 
 .news-menu ul li {
   font-size: 16px;
@@ -1622,8 +1622,8 @@ p {
 ===========================*/
 .services-area {
   background-color: #f4f6f7;
-  padding-top: 115px;
-  padding-bottom: 120px; }
+  padding-top: 50px;
+  padding-bottom: 50px; }
 
 .single-services {
   background-color: #fff;
@@ -1675,8 +1675,8 @@ p {
 ===========================*/
 .partners-area {
   background-color: #f4f6f7;
-  padding-top: 90px;
-  padding-bottom: 100px; }
+  padding-top: 50px;
+  padding-bottom: 50px; }
 
 .partners-2 {
   background-color: #fff; }
@@ -1813,7 +1813,7 @@ p {
 ===========================*/
 .call-action-area {
   padding-top: 50px;
-  padding-bottom: 100px; }
+  padding-bottom: 50px; }
   .call-action-area .call-action-content .action-title {
     font-size: 32px;
     font-weight: 600;
@@ -1921,8 +1921,8 @@ p {
         28.ERROR css
 ===========================*/
 .testimonial-area {
-  padding-top: 100px;
-  padding-bottom: 70px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   background-color: #f4f6f7; }
 
 .testimonial-2 {
@@ -2032,8 +2032,8 @@ p {
 ===========================*/
 /*===== Client Logo Two =====*/
 .client-logo-area {
-  padding-top: 80px;
-  padding-bottom: 80px; }
+  padding-top: 50px;
+  padding-bottom: 50px; }
 
 .client-logo-2 {
   background-color: #f4f6f7; }
@@ -2042,8 +2042,8 @@ p {
        21.BLOG css
 ===========================*/
 .blog-area {
-  padding-top: 115px;
-  padding-bottom: 120px; }
+  padding-top: 50px;
+  padding-bottom: 50px; }
 
 .single-blog .blog-image img {
   width: 100%;
@@ -2090,8 +2090,8 @@ p {
       20.CONTACT css
 ===========================*/
 .contact-area {
-  padding-top: 95px;
-  padding-bottom: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   background-color: #f4f6f7; }
 
 .form-message.error, .form-message.success {
