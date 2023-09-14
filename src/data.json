@@ -144,6 +144,12 @@
         "active": false
       },
       {
+        "id": 3,
+        "name": "NEWS",
+        "href": "#news",
+        "active": false
+      },
+      {
         "id": 4,
         "name": "PARTNERS",
         "href": "#partners",
@@ -184,49 +190,15 @@
   "news": {
     "sectionTitle": "News & Events",
     "sectionSubtitle": "Upcoming events and recent news articles about the project",
-    "categories": ["BRANDING", "MARKETING", "PLANNING", "RESEARCH"],
+    "categories": ["MEDIA", "EVENTS", "FUNDRAISING"],
     "items": [
       {
         "id": 1,
-        "categories": ["branding-3", "planning-3"],
-        "image": "images/news-1.png",
-        "title": "Graphics Design",
-        "description": "Short description for the ones who look for something new. Awesome!"
-      },
-      {
-        "id": 2,
-        "categories": ["marketing-3", "research-3"],
-        "image": "images/news-2.png",
-        "title": "Graphics Design",
-        "description": "Short description for the ones who look for something new. Awesome!"
-      },
-      {
-        "id": 3,
-        "categories": ["branding-3", "marketing-3"],
-        "image": "images/news-3.png",
-        "title": "Graphics Design",
-        "description": "Short description for the ones who look for something new. Awesome!"
-      },
-      {
-        "id": 4,
-        "categories": ["planning-3", "research-3"],
-        "image": "images/news-4.png",
-        "title": "Graphics Design",
-        "description": "Short description for the ones who look for something new. Awesome!"
-      },
-      {
-        "id": 5,
-        "categories": ["marketing-3"],
-        "image": "images/news-5.png",
-        "title": "Graphics Design",
-        "description": "Short description for the ones who look for something new. Awesome!"
-      },
-      {
-        "id": 6,
-        "categories": ["planning-3"],
-        "image": "images/news-6.png",
-        "title": "Graphics Design",
-        "description": "Short description for the ones who look for something new. Awesome!"
+        "categories": ["media-3"],
+        "image": "images/rm-sep23-2023PoS-Panama.jpg",
+        "title": "Bridging the Digital Divide: Rotary Magazine Highlights Panama's Educational Transformation",
+        "description": "The September 2023 issue of Rotary Magazine features an inspiring story on the Rotary Club of Panamá Norte's groundbreaking project to overhaul Panama's education system by addressing technological challenges, training teachers, and implementing digital classrooms across the country.",
+        "url": "https://www.rotary.org/en/classrooms-wired-success"
       }
     ]
   },
