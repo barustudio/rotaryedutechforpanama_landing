@@ -12,13 +12,13 @@
     description: 'Empowering the future: Transforming education in Panama. A Rotary initiative.',
     images: [
       {
-        url: 'images/slider-1.jpg',
+        url: 'https://rotaryedutechforpanama.org/images/slider-1.jpg',
         width: 1024,
         height: 768,
         alt: 'Empowering the future: Transforming education in Panama. A Rotary initiative.'
       },
       {
-        url: 'images/slider-1.jpg',
+        url: 'https://rotaryedutechforpanama.org/images/slider-1.jpg',
         width: 1024,
         height: 768,
         alt: 'Unlocking potential: Digital tools for a brighter tomorrow. A Rotary initiative.'
@@ -32,7 +32,7 @@
     cardType: 'summary_large_image',
     title: 'Digital Interactive Classrooms Project',
     description: 'Empowering the future: Transforming education in Panama. A Rotary initiative.',
-    image: 'images/slider-1.jpg',
+    image: 'https://rotaryedutechforpanama.org/images/slider-1.jpg',
     imageAlt: 'Empowering the future: Transforming education in Panama. A Rotary initiative.'
   }}
 />
