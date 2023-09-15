@@ -45,7 +45,7 @@
             <a href="https://barustudio.com">
               <img
                 width="48"
-                src="images/barustudio-64.png"
+                src="images/barustudio-64.webP"
                 alt="BaruStudio Logo"
               />
             </a>

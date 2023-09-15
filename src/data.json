@@ -4,35 +4,35 @@
     "description": "This project is made possible through the concerted efforts of our committed partners. These include Rotary clubs, community organizations, and the Ministry of Education, all working together to reshape the educational landscape in Panama.",
     "images": [
       {
-        "src": "images/rotary-chitre.png",
+        "src": "images/rotary-chitre.webP",
         "alt": "Logo Rotary Club of Chitré"
       },
       {
-        "src": "images/rotary-cristobal-colon.png",
+        "src": "images/rotary-cristobal-colon.webP",
         "alt": "Logo Rotary Club of Cristobal Colón"
       },
       {
-        "src": "images/rotary-david.png",
+        "src": "images/rotary-david.webP",
         "alt": "Logo Rotary Club of David"
       },
       {
-        "src": "images/rotary-la-chorrera.png",
+        "src": "images/rotary-la-chorrera.webP",
         "alt": "Logo Rotary Club of La Chorrera"
       },
       {
-        "src": "images/rotary-panama-norte.png",
+        "src": "images/rotary-panama-norte.webP",
         "alt": "Logo Rotary Club of Panama Norte"
       },
       {
-        "src": "images/rotary-playa-coronado.png",
+        "src": "images/rotary-playa-coronado.webP",
         "alt": "Logo Rotary Club of Playa Coronado"
       },
       {
-        "src": "images/rotary-santiago.png",
+        "src": "images/rotary-santiago.webP",
         "alt": "Logo Rotary Club of Santiago"
       },
       {
-        "src": "images/partner-meduca.jpg",
+        "src": "images/partner-meduca.webP",
         "alt": "Logo Ministry of Education"
       }
     ]
@@ -55,32 +55,32 @@
       "description": "In our 'Digital Interactive Classrooms' project, we deploy cutting-edge strategies to revolutionize education in Panama. We focus on digital literacy, teacher training, and collaborative learning to bridge the digital divide and empower our educators and students.",
       "items": [
         {
-          "icon": "images/icon-infrastructure.png",
+          "icon": "images/icon-infrastructure.webP",
           "title": "Infrastructure Development",
           "description": "The project will provide essential digital equipment, such as computers, tablets, projectors, and interactive whiteboards, to selected schools in underprivileged areas. This will ensure that both teachers and students have access to modern educational resources and tools."
         },
         {
-          "icon": "images/icon-training.png",
+          "icon": "images/icon-training.webP",
           "title": "Teacher Training",
           "description": "The project will offer comprehensive training to over 1,200 teachers, focusing on the effective use of digital technologies in the classroom. Teachers will learn how to incorporate technology into their lesson plans, use online resources, and develop engaging and interactive learning experiences for their students."
         },
         {
-          "icon": "images/icon-cv.png",
+          "icon": "images/icon-cv.webP",
           "title": "Curriculum Development",
           "description": "The project will support the development of a technology-enhanced curriculum, integrating digital resources into traditional teaching methods. This will ensure that students gain relevant knowledge and skills, preparing them for future success in the digital age."
         },
         {
-          "icon": "images/icon-monitoring.png",
+          "icon": "images/icon-monitoring.webP",
           "title": "Monitoring and Evaluation",
           "description": "The project will closely monitor progress and evaluate the impact of the digital technologies and training provided. This will help ensure that the project's objectives are met and that the resources are used effectively."
         },
         {
-          "icon": "images/icon-community.png",
+          "icon": "images/icon-community.webP",
           "title": "Community Engagement",
           "description": "The project will involve local Rotary clubs, community organizations, and the Ministry of Education (MEDUCA) in the planning, implementation, and evaluation process. This collaboration will help ensure the project's sustainability and long-term success."
         },
         {
-          "icon": "images/icon-advocacy.png",
+          "icon": "images/icon-advocacy.webP",
           "title": "Advocacy and Awareness",
           "description": "The project will work on raising awareness about the importance of digital technologies in education, showcasing the positive impact on student learning and development. This will encourage more schools, communities, and policymakers to adopt similar approaches and invest in digital resources and teacher training."
         }
@@ -91,22 +91,22 @@
       "description": "The Digital Interactive Classrooms Project envisions transformative outcomes that will shape the future of education in Panama. These aspirations not only focus on equipping students and teachers with digital competencies but also aim to build lasting partnerships that ensure sustainability.",
       "items": [
         {
-          "icon": "images/outcome-student-empowerment.png",
+          "icon": "images/outcome-student-empowerment.webP",
           "title": "Student Empowerment: Advancing digital literacy and workforce readiness.",
           "description": "Improved digital literacy and skills among students, better preparing them for higher education and the workforce."
         },
         {
-          "icon": "images/outcome-teacher-excellence.png",
+          "icon": "images/outcome-teacher-excellence.webP",
           "title": "Teacher Excellence: Cultivating innovative, technology-driven teaching practices.",
           "description": "Enhanced teaching practices, with teachers integrating digital technologies and resources into their lessons, leading to more engaging and effective learning experiences for students."
         },
         {
-          "icon": "images/outcome-future-ready-cv.png",
+          "icon": "images/outcome-future-ready-cv.webP",
           "title": "Future-Ready Curriculum: Building a relevant, digital-age education system.",
           "description": "A technology-enhanced curriculum that meets the needs of modern students and prepares them for success in the digital age."
         },
         {
-          "icon": "images/outcome-sustainable-partnerships.png",
+          "icon": "images/outcome-sustainable-partnerships.webP",
           "title": "Sustainable Partnerships: Fostering collaboration for enduring impact and project sustainability.",
           "description": "Increased collaboration and partnerships between Rotary clubs, community organizations, and the Ministry of Education, ensuring the project's sustainability and long-term impact."
         }
@@ -166,21 +166,21 @@
       {
         "id": 1,
         "title": "Empowering the future: Transforming education in Panama",
-        "backgroundImage": "images/slider-1.jpg",
+        "backgroundImage": "images/slider-1.webP",
         "href": "#contact",
         "buttonText": "Join Our Mission"
       },
       {
         "id": 2,
         "title": "Unlocking potential: Digital tools for a brighter tomorrow",
-        "backgroundImage": "images/slider-2.jpg",
+        "backgroundImage": "images/slider-2.webP",
         "href": "#contact",
         "buttonText": "Get Involved"
       },
       {
         "id": 3,
         "title": "Bridging the gap: Quality education for all Panamanian students",
-        "backgroundImage": "images/slider-3.jpg",
+        "backgroundImage": "images/slider-3.webP",
         "href": "#contact",
         "buttonText": "Transform Lives with Us"
       }
@@ -197,7 +197,7 @@
         "title": "2022-23 Programs of Scale Finalist",
         "description": "The Rotary Foundation's Programs of Scale awards, designed to scale high-impact, evidence-based programs led by Rotary members, recognized our project as a finalist in its 2022-23 grant application cycle.",
         "categories": ["awards-3", "media-3"],
-        "image": "images/rotary-programs-of-scale.jpg",
+        "image": "images/rotary-programs-of-scale.webP",
         "url": "https://my.rotary.org/en/knowledge-and-resources/resources-and-reference/programs-of-scale-grants",
         "file": "docs/programs-of-scale-finalist-2022-23-digital-interactive-classrooms-in panama-en.pdf"
       },
@@ -206,7 +206,7 @@
         "title": "Bridging the Digital Divide: Rotary Magazine Highlights Panama's Educational Transformation",
         "description": "The September 2023 issue of Rotary Magazine features an inspiring story on the Rotary Club of Panamá Norte's groundbreaking project to overhaul Panama's education system by addressing technological challenges, training teachers, and implementing digital classrooms across the country.",
         "categories": ["media-3"],
-        "image": "images/rm-sep23-2023PoS-Panama.jpg",
+        "image": "images/rm-sep23-2023PoS-Panama.webP",
         "url": "https://www.rotary.org/en/classrooms-wired-success"
       },
       {
@@ -223,7 +223,7 @@
         "title": "Rotary Club Madras (D3232 India) Joins Our Mission",
         "description": "In a recent virtual meeting, the Rotary Club of Madras (District 3232) in India has graciously joined our project and made a symbolic donation, demonstrating global solidarity in our efforts.",
         "categories": ["fundraising-3"],
-        "image": "images/rc-matras-joins-our-mission.jpg",
+        "image": "images/rc-matras-joins-our-mission.webP",
         "imageZoom": true
       }
     ]
@@ -234,31 +234,31 @@
     "description": "Hear from students, teachers, and community members about the tangible changes and improvements they've experienced.",
     "items": [
       {
-        "image": "images/author-3.jpg",
+        "image": "images/author-3.webP",
         "text": "Since we've incorporated these digital tools in our classrooms, I've seen a significant increase in student engagement and interest. It's like we've unlocked a new way of learning, and the students are thriving.",
         "author": "María Pérez",
         "title": "Teacher"
       },
       {
-        "image": "images/author-1.jpg",
+        "image": "images/author-1.webP",
         "text": "Before, I never really liked school. Now, I can't wait to get to class. Using technology makes learning exciting and interactive. I feel more prepared for the future.",
         "author": "Alberto Rios",
         "title": "Student"
       },
       {
-        "image": "images/author-2.jpg",
+        "image": "images/author-2.webP",
         "text": "I am grateful for the Paul Harris Interactive Classroom in my daughter's school. Now she comes home from school excited to share what she has learned. I see her growing in confidence and knowledge. This initiative is truly transforming education in Panama.",
         "author": "Carmen Rodríguez",
         "title": "Parent"
       },
       {
-        "image": "images/author-4.jpg",
+        "image": "images/author-4.webP",
         "text": "The Paul Harris Interactive Classroom has been a game-changer for our school. We've seen improvements not just in academic performance, but also in student motivation and teacher satisfaction. We're thrilled to be a part of this initiative.",
         "author": "Luis González",
         "title": "School Principal"
       },
       {
-        "image": "images/author-4.jpg",
+        "image": "images/author-4.webP",
         "text": "We are proud to partner with Rotary on this project. Their commitment to improving education and integrating technology in our classrooms aligns perfectly with our mission. Together, we are making a difference in the lives of our students.",
         "author": "Dr. Marta Ortega",
         "title": "Ministry of Education"
