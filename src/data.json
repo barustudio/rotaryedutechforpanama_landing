@@ -190,15 +190,41 @@
   "news": {
     "sectionTitle": "News & Events",
     "sectionSubtitle": "Upcoming events and recent news articles about the project",
-    "categories": ["MEDIA", "EVENTS", "FUNDRAISING"],
+    "categories": ["MEDIA", "AWARDS", "EVENTS", "FUNDRAISING"],
     "items": [
       {
         "id": 1,
-        "categories": ["media-3"],
-        "image": "images/rm-sep23-2023PoS-Panama.jpg",
+        "title": "2022-23 Programs of Scale Finalist",
+        "description": "The Rotary Foundation's Programs of Scale awards, designed to scale high-impact, evidence-based programs led by Rotary members, recognized our project as a finalist in its 2022-23 grant application cycle.",
+        "categories": ["awards-3", "media-3"],
+        "image": "images/rotary-programs-of-scale.jpg",
+        "url": "https://my.rotary.org/en/knowledge-and-resources/resources-and-reference/programs-of-scale-grants",
+        "file": "docs/programs-of-scale-finalist-2022-23-digital-interactive-classrooms-in panama-en.pdf"
+      },
+      {
+        "id": 2,
         "title": "Bridging the Digital Divide: Rotary Magazine Highlights Panama's Educational Transformation",
         "description": "The September 2023 issue of Rotary Magazine features an inspiring story on the Rotary Club of Panamá Norte's groundbreaking project to overhaul Panama's education system by addressing technological challenges, training teachers, and implementing digital classrooms across the country.",
+        "categories": ["media-3"],
+        "image": "images/rm-sep23-2023PoS-Panama.jpg",
         "url": "https://www.rotary.org/en/classrooms-wired-success"
+      },
+      {
+        "id": 3,
+        "title": "BELRAG Spotlights Our Literacy Project",
+        "description": "The Basic Education & Literacy Rotarian Action Group (BELRAG) features our project in their newsletter, underscoring our shared commitment to combat illiteracy and promote education worldwide.",
+        "categories": ["media-3"],
+        "image": "images/belrag-newsletter-august-2023.webP",
+        "imageZoom": true,
+        "url": "https://belrag.org/newsletter"
+      },
+      {
+        "id": 4,
+        "title": "Rotary Club Madras (D3232 India) Joins Our Mission",
+        "description": "In a recent virtual meeting, the Rotary Club of Madras (District 3232) in India has graciously joined our project and made a symbolic donation, demonstrating global solidarity in our efforts.",
+        "categories": ["fundraising-3"],
+        "image": "images/rc-matras-joins-our-mission.jpg",
+        "imageZoom": true
       }
     ]
   },
