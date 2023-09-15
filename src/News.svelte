@@ -33,16 +33,27 @@
               <img src="{item.image}" alt="">
               <div class="news-overlay d-flex align-items-center justify-content-center">
                 <div class="news-content">
+                  {#if item.imageZoom}
                   <div class="news-icon">
                     <a class="image-popup" href="{item.image}" target="_blank">
                       <i class="lni-zoom-in"></i>
                     </a>
                   </div>
+                  {/if}
+                  {#if item.url}
                   <div class="news-icon">
                     <a href="{item.url}" target="_blank">
                       <i class="lni-link"></i>
                     </a>
                   </div>
+                  {/if}
+                  {#if item.file}
+                  <div class="news-icon">
+                    <a class="image-popup" href="{item.file}" target="_blank">
+                      <i class="lni-download"></i>
+                    </a>
+                  </div>
+                  {/if}
                 </div>
               </div>
             </div>
